@@ -19,3 +19,11 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+/.editorconfig
+/babel.config.js
+/public/favicon.ico
+/public/index.html
+/src/assets/logo.png
+/src/assets/logo.svg
+/package.json
+/package-lock.json

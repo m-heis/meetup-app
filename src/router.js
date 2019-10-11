@@ -8,7 +8,7 @@ import SignUp from './components/User/SignUp.vue'
 import SignIn from './components/User/SignIn.vue'
 import MeetUp from './components/MeetUp/MeetUp'
 
-Vue.use(Router);
+Vue.use(Router)
 
 export default new Router({
   routes: [

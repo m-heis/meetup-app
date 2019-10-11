@@ -1,4 +1,4 @@
-# meeting-app
+# meetup-app
 
 ## Project setup
 ```
